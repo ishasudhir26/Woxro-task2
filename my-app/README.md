@@ -146,4 +146,3 @@ git init
 git add .
 if needed config using the given command
 git commit -am "some msg"
-git 
