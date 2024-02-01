@@ -140,3 +140,9 @@ export default App;
     transform: rotate(360deg);
   }
 }
+
+create repository
+git init
+if needed config using the given command
+git commit -am "some msg"
+git 
